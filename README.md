@@ -26,9 +26,7 @@ Feel free to talk to me about anything:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudeus3greyrat&repo=vue3-element-admin)](https://github.com/Rudeus3Greyrat/vue3-element-admin)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudeus3greyrat&repo=vue-context-menu)](https://github.com/Rudeus3Greyrat/vue-context-menu)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudeus3greyrat&repo=vue-keyboard-MultiSelect)](https://github.com/Rudeus3Greyrat/vue-keyboard-MultiSelect)
+and [more...](https://github.com/Rudeus3Greyrat?tab=repositories)
 
 
 ✍️ **My blogs:**
